@@ -18,7 +18,8 @@ Là dịch vụ thông tin liên lạc trực tiếp qua vệ tinh địa tĩnh 
 **Đặc điểm**: 
 <ul>
 <ul>
-<li>Phạm vi phục vụ rộng, cung cấp liên lạc tới nơi khó khăn nhất như vùng sâu vùng xa, biên giới, hải đảo...trừ bắc cực và nam cực</li>
+  <li>Phạm vi phục vụ rộng, cung cấp liên lạc tới nơi khó khăn nhất như vùng sâu vùng xa, biên giới, hải đảo...trừ bắc cực và nam cực</li>
+  <li>Truy cập vào mạng điện thoại công cộng toàn cầu vào bất cứ lúc nào và tại bất cứ đâu</li>
 </ul>
 </ul>
 
